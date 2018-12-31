@@ -1,5 +1,4 @@
-# Website 
-This is a Travel website designed using Bootstrap
+# Practice Exercise 1 
+Java Language Basics - Practice Exercise
 
-## Steps to run
-https://meghana-n.github.io/Bootstrap-Assignment-3/
+
